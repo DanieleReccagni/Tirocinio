@@ -1,0 +1,21 @@
+{
+  "name": "tesi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.20.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.4",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.0.0"
+  }
+}

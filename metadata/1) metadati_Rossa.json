@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Sleeves",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Size",
+      "value": "L"
+    }
+  ],
+  "description": "Descrizione d'esempio",
+  "image": "ipfs://QmVyXDYEwEN74uzdpnyLqFHoqw9thH6cPTHjyRmttHQgVz",
+  "name": "Esempio"
+}
